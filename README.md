@@ -12,7 +12,8 @@ The goal of this project was to customize EEG-SMT by Olimex and design electrode
 
 ## Not perfect
 This design definitely has its flaws, but it was tested and proved working.
-![brainwave_recording](sample.PNG "Brainwave recording")
+
+![brainwave_recording](sample.JPG "Brainwave recording")
 
 ## Software
 As for software, I used open-source project BrainBay, which can be found here: http://www.shifz.org/brainbay/ .
