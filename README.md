@@ -20,3 +20,6 @@ As for software, I used open-source project BrainBay, which can be found here: h
 
 ## Support
 Feel free to ask me any questions about this project, I will certainly try to answer you.
+
+## Interview about this project
+https://vedanadosah.cvtisr.sk/eeg-ako-studentsky-projekt
