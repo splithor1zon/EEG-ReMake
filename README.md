@@ -1,6 +1,9 @@
 # EEG-ReMake
 This project is based on work of OpenEEG project and Olimex's implementation of it. This project is free to use, but is bound by Creative Commons Attribution-Sharealike license. More info can be found at http://openeeg.sourceforge.net
 
+## Photos
+For photos refer to [/img/README.md](/img/README.md)
+
 ## Schematics
 The schematic and design files are in Eagle file-formats. Inspired by https://www.olimex.com/Products/EEG/OpenEEG/EEG-SMT/ .
 
