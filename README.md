@@ -21,5 +21,9 @@ As for software, I used open-source project BrainBay, which can be found here: h
 ## Support
 Feel free to ask me any questions about this project, I will certainly try to answer you.
 
+## Finished Product
+![43680798_2166587656936958_5731053063784079277_n](https://github.com/splithor1zon/EEG-ReMake/assets/43297553/aee3b06c-b32e-4852-834c-779d626ec1ef)
+I can also provide some guidelines on the final assembly.
+
 ## Interview about this project
 https://vedanadosah.cvtisr.sk/eeg-ako-studentsky-projekt
