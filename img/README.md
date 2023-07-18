@@ -7,5 +7,5 @@
 ![Active electrode pair with rubber band head strap.](/img/IMG_20180210_164744.jpg)
 ![Isolated USB to UART controller. Also supplies power to the board.](/img/IMG_20180210_164920.jpg)
 ![Isolated USB to UART controller. Also supplies power to the board. Other side.](/img/IMG_20180210_164945.jpg)
-![EEG board. MC side.](/img/IMG_20230718_131550.jpg)
-![EEG board. Front side.](/img/IMG_20230718_131641.jpg)
+![EEG board. MC side.](/img/IMG_20230718_135411.jpg)
+![EEG board. Front side.](/img/IMG_20230718_135433.jpg)
