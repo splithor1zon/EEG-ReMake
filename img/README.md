@@ -1,1 +1,11 @@
 # Photos
+![Bare electrode pcb.](/img/el0.jpg)
+![Active amplification electrode circuit. Assembled.](/img/el2.jpg)
+![Both parts of an active electrode.](/img/el3.jpg)
+![Negative of circuit board design. Blocks UV light.](/img/IMG_20180210_164529.jpg)
+![Negative of circuit board design. Blocks UV light. Other side.](/img/IMG_20180210_164540.jpg)
+![Active electrode pair with rubber band head strap.](/img/IMG_20180210_164744.jpg)
+![Isolated USB to UART controller. Also supplies power to the board.](/img/IMG_20180210_164920.jpg)
+![Isolated USB to UART controller. Also supplies power to the board. Other side.](/img/IMG_20180210_164945.jpg)
+![EEG board. MC side.](/img/IMG_20230718_131550.jpg)
+![EEG board. Front side.](/img/IMG_20230718_131641.jpg)
