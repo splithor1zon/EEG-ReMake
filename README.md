@@ -30,3 +30,5 @@ I can also provide some guidelines on the final assembly.
 
 ## Interview about this project
 https://vedanadosah.cvtisr.sk/eeg-ako-studentsky-projekt
+
+Hopefully this project will help somebody. 🤗
