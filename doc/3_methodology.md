@@ -18,6 +18,8 @@ Although we're not using the original ModularEEG project, but an iteration of it
 
 Since Olimex has access to a quasi-limitless amount of those specific parts, we didn't have that option. We used various sites as sources of parts, such as AliExpress for connectors and cables, where you can get such parts cheap and of good quality. For the rest of the functional parts (resistors, capacitors, integrated circuits...) we used the Mouser site, where they have a very wide selection and free shipping for orders over 50$. Later we had to reorder some parts through a friend because we made some changes in the design. The lesson learned was: Order only the final selection of parts, think carefully.
 
+!["Component list"](./img/Obrázok30.png)
+
 ## First prototype
 
 This was our first experimental design on which we honed our skills with Eagle. It took us at least 3 weeks to modify the schematic and design the PCB. That's not counting the actual product. However, it was accompanied by a few complications, which fortunately were solved "painlessly". For etching I used a solution of hydrochloric acid and hydrogen peroxide.
